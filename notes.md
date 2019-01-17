@@ -5,3 +5,8 @@
  git remote add origin git@github.com:JanneSuotsalo/GitExercise1.git
  git push -u origin master
  history
+
+ git add .
+ git commit -m "added note"
+ git push
+ history
